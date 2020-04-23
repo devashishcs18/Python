@@ -17,3 +17,4 @@ if(add==temp1):
     print("Armstrong")
 else:
     print("Not Armstrong")
+    
